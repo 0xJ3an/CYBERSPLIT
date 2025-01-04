@@ -1,7 +1,7 @@
 # CyberSplit - Secure File Splitting Utility
 
 <p align="center">
-  <img src="cybersplit.png" width="150" alt="CyberSplit Logo">
+  <img src="cybersplit.png" width="300" alt="CyberSplit Logo">
 </p>
 
 ## About
