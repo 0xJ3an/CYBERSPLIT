@@ -7,6 +7,9 @@
 
 <a href="https://www.producthunt.com/posts/cybersplit?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cybersplit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=754766&theme=light" alt="CyberSplit - Cybersplit&#0032;is&#0032;a&#0032;secure&#0032;offline&#0032;file&#0032;splitting&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+![GitHub Downloads (specific asset, specific tag)](https://img.shields.io/github/downloads/0xJ3an/CYBERSPLIT/CYBERSPLIT/CyberSplit.exe)
+
+
 ## About
 CyberSplit is a secure offline file splitting utility with a cyberpunk-themed interface. Split large files into manageable chunks and merge them back together without any data modification or internet connectivity.
 
